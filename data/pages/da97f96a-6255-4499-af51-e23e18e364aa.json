@@ -64,16 +64,11 @@
           "type": "list-item",
           "children": [
             {
-              "type": "paragraph",
-              "children": [
-                {
-                  "text": "Known Acquaintances:",
-                  "bold": true
-                },
-                {
-                  "text": " The mystery figure associated with Cersei, Jaime, and Joffrey. They mentioned Cersei frequently, and Jaime always as an auxiliary figure. Names only came up semi frequently."
-                }
-              ]
+              "bold": true,
+              "text": "Known Acquaintances:"
+            },
+            {
+              "text": " The mystery figure associated with Cersei, Jaime, and Joffrey. They mentioned Cersei frequently, and Jaime always as an auxiliary figure. Names only came up semi frequently."
             }
           ]
         },
@@ -81,23 +76,18 @@
           "type": "list-item",
           "children": [
             {
-              "type": "paragraph",
-              "children": [
-                {
-                  "text": "Locations: ",
-                  "bold": true
-                },
-                {
-                  "text": "Kings"
-                },
-                {
-                  "bold": true,
-                  "text": " "
-                },
-                {
-                  "text": "Landing. Private room."
-                }
-              ]
+              "text": "Locations: ",
+              "bold": true
+            },
+            {
+              "text": "Kings"
+            },
+            {
+              "bold": true,
+              "text": " "
+            },
+            {
+              "text": "Landing. Private room."
             }
           ]
         },
@@ -105,16 +95,11 @@
           "type": "list-item",
           "children": [
             {
-              "type": "paragraph",
-              "children": [
-                {
-                  "text": "Professions: ",
-                  "bold": true
-                },
-                {
-                  "text": "Sword fighting was mentioned frequently by multiple archival items. Also mentioned was writing, reading, and drawing. Thus, we believe the mystery individual was a sword fighter or at least studied sword fighting. "
-                }
-              ]
+              "text": "Professions: ",
+              "bold": true
+            },
+            {
+              "text": "Sword fighting was mentioned frequently by multiple archival items. Also mentioned was writing, reading, and drawing. Thus, we believe the mystery individual was a sword fighter or at least studied sword fighting. "
             }
           ]
         },
@@ -122,16 +107,11 @@
           "type": "list-item",
           "children": [
             {
-              "type": "paragraph",
-              "children": [
-                {
-                  "text": "Health Info: ",
-                  "bold": true
-                },
-                {
-                  "text": "Mystery individual mentioned a leg that was frequently bothering them and seemed older in their age range."
-                }
-              ]
+              "text": "Health Info: ",
+              "bold": true
+            },
+            {
+              "text": "Mystery individual mentioned a leg that was frequently bothering them and seemed older in their age range."
             }
           ]
         },
@@ -139,16 +119,11 @@
           "type": "list-item",
           "children": [
             {
-              "type": "paragraph",
-              "children": [
-                {
-                  "text": "Personal Info: ",
-                  "bold": true
-                },
-                {
-                  "text": "Loved mutton and drinking. Mentioned reading frequently and seemed to often have conflicts. Never wanted to go north of the wall."
-                }
-              ]
+              "text": "Personal Info: ",
+              "bold": true
+            },
+            {
+              "text": "Loved mutton and drinking. Mentioned reading frequently and seemed to often have conflicts. Never wanted to go north of the wall."
             }
           ]
         },
@@ -156,16 +131,11 @@
           "type": "list-item",
           "children": [
             {
-              "type": "paragraph",
-              "children": [
-                {
-                  "text": "Group Choice Label -- Favorite Phrases: ",
-                  "bold": true
-                },
-                {
-                  "text": "\"You know nothing.\""
-                }
-              ]
+              "text": "Group Choice Label -- Favorite Phrases: ",
+              "bold": true
+            },
+            {
+              "text": "\"You know nothing.\""
             }
           ]
         }
@@ -364,6 +334,6 @@
   "slug": "student-template-example",
   "created_at": "2026-08-06T21:30:31.151Z",
   "created_by": "kywark",
-  "updated_at": "2026-08-06T21:30:31.151Z",
+  "updated_at": "2026-08-06T21:42:50.758Z",
   "updated_by": "kywark"
 }
