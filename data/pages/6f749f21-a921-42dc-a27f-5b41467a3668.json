@@ -1,0 +1,14 @@
+{
+  "content": [],
+  "created_at": "2026-08-06T21:12:33.744Z",
+  "created_by": "kywark",
+  "title": "Perry Mason Show",
+  "slug": "perry-mason-show",
+  "updated_at": "2026-08-06T21:12:33.744Z",
+  "updated_by": "kywark",
+  "autogenerate": {
+    "enabled": true,
+    "type": "event",
+    "type_id": "bb242bcf-b19b-49af-bdc4-f72ca0eedfec"
+  }
+}

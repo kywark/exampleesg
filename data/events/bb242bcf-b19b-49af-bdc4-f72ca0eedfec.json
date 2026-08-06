@@ -1,0 +1,33 @@
+{
+  "audiovisual_files": {
+    "4b3b780e-fa63-441c-a3cd-6cab47e7634e": {
+      "label": "Perry Mason",
+      "is_offline": false,
+      "file_type": "Audio",
+      "file_url": "https://dn720308.ca.archive.org/0/items/vts-01-1_20211218_1833/VTS_01_1.mp4",
+      "duration": 7178,
+      "caption_set": [],
+      "set_sort": []
+    }
+  },
+  "auto_generate_web_page": true,
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "citation": "",
+  "label": "Perry Mason Show",
+  "av_file_order": [
+    "4b3b780e-fa63-441c-a3cd-6cab47e7634e"
+  ],
+  "created_at": "2026-08-06T21:12:33.374Z",
+  "created_by": "kywark",
+  "updated_at": "2026-08-06T21:12:33.374Z",
+  "updated_by": "kywark"
+}
