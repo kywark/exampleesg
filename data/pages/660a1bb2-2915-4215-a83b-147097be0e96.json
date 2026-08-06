@@ -78,6 +78,45 @@
           "text": "Clip #2"
         }
       ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "As you listen to the below audio, be sure to add your annotations to the project addressing: what you notice, what you think it is, and what patterns emerge."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "uuid": "143d8252-8b63-40f3-9405-de97c391487e",
+      "includes": [
+        "media",
+        "annotations",
+        "label",
+        "description"
+      ],
+      "type": "event",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
     }
   ],
   "title": "[Premade] Station #1",
@@ -88,6 +127,6 @@
   "slug": "premade-station-1",
   "created_at": "2026-08-06T21:08:04.788Z",
   "created_by": "kywark",
-  "updated_at": "2026-08-06T21:13:39.082Z",
+  "updated_at": "2026-08-06T21:16:36.781Z",
   "updated_by": "kywark"
 }
