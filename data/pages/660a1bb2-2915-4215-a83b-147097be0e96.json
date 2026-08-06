@@ -1,0 +1,54 @@
+{
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "This is an example page for a hypothetical station #1. This could be the Perry Mason station, and would have: the script for Perry Mason TV Show, the script for Perry Mason Radio show, a 3-6min audio clip discussing Frank Sinatra for Perry Mason, and 3-6 min audio clip of Gardner dictating Perry Mason."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Clip #1:"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "title": "[Premade] Station #1",
+  "autogenerate": {
+    "enabled": false,
+    "type": "custom"
+  },
+  "slug": "premade-station-1",
+  "created_at": "2026-08-06T21:08:04.788Z",
+  "created_by": "kywark",
+  "updated_at": "2026-08-06T21:08:04.788Z",
+  "updated_by": "kywark"
+}
