@@ -1,0 +1,38 @@
+{
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "This is an example project for the proposed ESG lesson. "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Instructors will make a page for each station of the lesson in advance of the actual visit to the HRC. These pages will be noted with \"[Premade].\" The other pages are meant to reflect the work students could create during the lesson and have no additional marking."
+        }
+      ]
+    }
+  ],
+  "title": "Explanation",
+  "autogenerate": {
+    "enabled": false,
+    "type": "custom"
+  },
+  "slug": "explanation",
+  "created_at": "2026-08-06T21:06:06.572Z",
+  "created_by": "kywark",
+  "updated_at": "2026-08-06T21:06:06.572Z",
+  "updated_by": "kywark"
+}
